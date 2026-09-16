@@ -199,9 +199,13 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 
 👤 Author
+
 Oboth Richard
+
 Cybersecurity Professional B082
+
 LinkedIn: https://www.linkedin.com/in/oboth-richard-5178933b8/
 
 📌 Project Information
+
 Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
