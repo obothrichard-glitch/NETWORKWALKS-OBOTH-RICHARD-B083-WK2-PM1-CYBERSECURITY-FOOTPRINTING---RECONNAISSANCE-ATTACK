@@ -182,6 +182,7 @@ Network topology and device information should be documented and updated regular
 Reconnaissance and scanning should only be performed against systems and networks where appropriate authorization has been provided.
 
 7. Conclusion
+
 During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed practical activities covering footprinting, reconnaissance and network scanning.
 
 In the footprinting activity, I used six Kali Linux tools to collect information about the target domain. I learned how WHOIS can provide domain information, WhatWeb can identify web technologies, Nslookup can resolve domain names, Curl can inspect HTTP headers, Wafw00f can identify a WAF, and DNSRecon can provide additional DNS information.
